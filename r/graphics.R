@@ -1,6 +1,6 @@
 library(tidyverse)
 
-data <- readxl::read_excel('../HERD_Export_cleaned.xlsx') %>% 
+data <- readxl::read_excel("../HERD_Export_cleaned.xlsx") %>% 
   filter(Source != "Total for selected values") %>% 
   mutate(Amount = as.numeric(Amount))
 

@@ -1,80 +1,73 @@
-Data Download from NCSES Interactive Data Tool
-
-Filters,Selected values
-"Institution Name","Columbia U. in the City of New York"
-
-"Deflator: Current Dollars",
-"Unit of Measure: Dollars",
-
-,,"<measures>","R&D Expenditures by Detailed Field and Detailed Funding Source (Standard Form Only)",
-"[Fiscal Year]","[Institution Name]","[Detailed Source of Funds]",
-"2017","Total for selected values","Total for selected values","893,062,000",
-"2017","Columbia U. in the City of New York","Total for selected values","893,062,000",
-"2017","Columbia U. in the City of New York","All other sources","23,857,000",
-"2017","Columbia U. in the City of New York","Business","62,747,000",
-"2017","Columbia U. in the City of New York","Institutional funds","71,307,000",
-"2017","Columbia U. in the City of New York","Nonprofit organizations","81,553,000",
-"2017","Columbia U. in the City of New York","State and local government","5,758,000",
-"2017","Columbia U. in the City of New York","U.S. federal government","647,840,000",
-"2016","Total for selected values","Total for selected values","837,312,000",
-"2016","Columbia U. in the City of New York","Total for selected values","837,312,000",
-"2016","Columbia U. in the City of New York","All other sources","23,508,000",
-"2016","Columbia U. in the City of New York","Business","53,861,000",
-"2016","Columbia U. in the City of New York","Institutional funds","70,264,000",
-"2016","Columbia U. in the City of New York","Nonprofit organizations","82,667,000",
-"2016","Columbia U. in the City of New York","State and local government","6,555,000",
-"2016","Columbia U. in the City of New York","U.S. federal government","600,457,000",
-"2015","Total for selected values","Total for selected values","868,159,000",
-"2015","Columbia U. in the City of New York","Total for selected values","868,159,000",
-"2015","Columbia U. in the City of New York","All other sources","26,282,000",
-"2015","Columbia U. in the City of New York","Business","39,629,000",
-"2015","Columbia U. in the City of New York","Institutional funds","117,648,000",
-"2015","Columbia U. in the City of New York","Nonprofit organizations","80,911,000",
-"2015","Columbia U. in the City of New York","State and local government","11,144,000",
-"2015","Columbia U. in the City of New York","U.S. federal government","592,545,000",
-"2014","Total for selected values","Total for selected values","890,642,000",
-"2014","Columbia U. in the City of New York","Total for selected values","890,642,000",
-"2014","Columbia U. in the City of New York","All other sources","25,050,000",
-"2014","Columbia U. in the City of New York","Business","35,894,000",
-"2014","Columbia U. in the City of New York","Institutional funds","124,948,000",
-"2014","Columbia U. in the City of New York","Nonprofit organizations","80,211,000",
-"2014","Columbia U. in the City of New York","State and local government","15,951,000",
-"2014","Columbia U. in the City of New York","U.S. federal government","608,588,000",
-"2013","Total for selected values","Total for selected values","889,188,000",
-"2013","Columbia U. in the City of New York","Total for selected values","889,188,000",
-"2013","Columbia U. in the City of New York","All other sources","20,595,000",
-"2013","Columbia U. in the City of New York","Business","42,990,000",
-"2013","Columbia U. in the City of New York","Institutional funds","101,419,000",
-"2013","Columbia U. in the City of New York","Nonprofit organizations","70,715,000",
-"2013","Columbia U. in the City of New York","State and local government","17,482,000",
-"2013","Columbia U. in the City of New York","U.S. federal government","635,987,000",
-"2012","Total for selected values","Total for selected values","889,487,000",
-"2012","Columbia U. in the City of New York","Total for selected values","889,487,000",
-"2012","Columbia U. in the City of New York","All other sources","20,248,000",
-"2012","Columbia U. in the City of New York","Business","37,341,000",
-"2012","Columbia U. in the City of New York","Institutional funds","102,628,000",
-"2012","Columbia U. in the City of New York","Nonprofit organizations","71,117,000",
-"2012","Columbia U. in the City of New York","State and local government","12,580,000",
-"2012","Columbia U. in the City of New York","U.S. federal government","645,573,000",
-"2011","Total for selected values","Total for selected values","878,900,000",
-"2011","Columbia U. in the City of New York","Total for selected values","878,900,000",
-"2011","Columbia U. in the City of New York","All other sources","21,041,000",
-"2011","Columbia U. in the City of New York","Business","35,999,000",
-"2011","Columbia U. in the City of New York","Institutional funds","98,734,000",
-"2011","Columbia U. in the City of New York","Nonprofit organizations","65,412,000",
-"2011","Columbia U. in the City of New York","State and local government","12,481,000",
-"2011","Columbia U. in the City of New York","U.S. federal government","645,233,000",
-"2010","Total for selected values","Total for selected values","807,235,000",
-"2010","Columbia U. in the City of New York","Total for selected values","807,235,000",
-"2010","Columbia U. in the City of New York","All other sources","24,970,000",
-"2010","Columbia U. in the City of New York","Business","35,548,000",
-"2010","Columbia U. in the City of New York","Institutional funds","95,487,000",
-"2010","Columbia U. in the City of New York","Nonprofit organizations","66,681,000",
-"2010","Columbia U. in the City of New York","State and local government","12,336,000",
-"2010","Columbia U. in the City of New York","U.S. federal government","572,213,000",
-
-
-NOTES:,
-
-"SOURCE: National Science Foundation, National Center for Science and Engineering Statistics, Higher Education Research and Development Survey."
-Downloaded 2019/09/30 at 23:22:18 PM EST,
+Year,[Institution Name],[Detailed Field],Source,Expenditures
+2017,Total for selected values,Total for selected values,Total for selected values,"424,385"
+2017,Columbia U. in the City of New York,Total for selected values,Total for selected values,"424,385"
+2017,Columbia U. in the City of New York,Health sciences,Total for selected values,"424,385"
+2017,Columbia U. in the City of New York,Health sciences,All other sources,"4,415"
+2017,Columbia U. in the City of New York,Health sciences,Business,"51,342"
+2017,Columbia U. in the City of New York,Health sciences,Institutional funds,"32,978"
+2017,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"38,032"
+2017,Columbia U. in the City of New York,Health sciences,State and local government,"2,296"
+2017,Columbia U. in the City of New York,Health sciences,U.S. federal government,"295,322"
+2016,Total for selected values,Total for selected values,Total for selected values,"386,197"
+2016,Columbia U. in the City of New York,Total for selected values,Total for selected values,"386,197"
+2016,Columbia U. in the City of New York,Health sciences,Total for selected values,"386,197"
+2016,Columbia U. in the City of New York,Health sciences,All other sources,"4,912"
+2016,Columbia U. in the City of New York,Health sciences,Business,"42,350"
+2016,Columbia U. in the City of New York,Health sciences,Institutional funds,"32,845"
+2016,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"38,648"
+2016,Columbia U. in the City of New York,Health sciences,State and local government,"2,592"
+2016,Columbia U. in the City of New York,Health sciences,U.S. federal government,"264,850"
+2015,Total for selected values,Total for selected values,Total for selected values,"305,806"
+2015,Columbia U. in the City of New York,Total for selected values,Total for selected values,"305,806"
+2015,Columbia U. in the City of New York,Health sciences,Total for selected values,"305,806"
+2015,Columbia U. in the City of New York,Health sciences,All other sources,"5,827"
+2015,Columbia U. in the City of New York,Health sciences,Business,"21,311"
+2015,Columbia U. in the City of New York,Health sciences,Institutional funds,"43,260"
+2015,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"29,614"
+2015,Columbia U. in the City of New York,Health sciences,State and local government,"6,909"
+2015,Columbia U. in the City of New York,Health sciences,U.S. federal government,"198,885"
+2014,Total for selected values,Total for selected values,Total for selected values,"332,248"
+2014,Columbia U. in the City of New York,Total for selected values,Total for selected values,"332,248"
+2014,Columbia U. in the City of New York,Health sciences,Total for selected values,"332,248"
+2014,Columbia U. in the City of New York,Health sciences,All other sources,"8,609"
+2014,Columbia U. in the City of New York,Health sciences,Business,"19,436"
+2014,Columbia U. in the City of New York,Health sciences,Institutional funds,"55,679"
+2014,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"31,518"
+2014,Columbia U. in the City of New York,Health sciences,State and local government,"10,446"
+2014,Columbia U. in the City of New York,Health sciences,U.S. federal government,"206,560"
+2013,Total for selected values,Total for selected values,Total for selected values,"368,288"
+2013,Columbia U. in the City of New York,Total for selected values,Total for selected values,"368,288"
+2013,Columbia U. in the City of New York,Health sciences,Total for selected values,"368,288"
+2013,Columbia U. in the City of New York,Health sciences,All other sources,"7,710"
+2013,Columbia U. in the City of New York,Health sciences,Business,"19,572"
+2013,Columbia U. in the City of New York,Health sciences,Institutional funds,"45,374"
+2013,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"29,472"
+2013,Columbia U. in the City of New York,Health sciences,State and local government,"11,153"
+2013,Columbia U. in the City of New York,Health sciences,U.S. federal government,"255,007"
+2012,Total for selected values,Total for selected values,Total for selected values,"402,778"
+2012,Columbia U. in the City of New York,Total for selected values,Total for selected values,"402,778"
+2012,Columbia U. in the City of New York,Health sciences,Total for selected values,"402,778"
+2012,Columbia U. in the City of New York,Health sciences,All other sources,"9,257"
+2012,Columbia U. in the City of New York,Health sciences,Business,"18,113"
+2012,Columbia U. in the City of New York,Health sciences,Institutional funds,"47,802"
+2012,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"31,675"
+2012,Columbia U. in the City of New York,Health sciences,State and local government,"6,759"
+2012,Columbia U. in the City of New York,Health sciences,U.S. federal government,"289,172"
+2011,Total for selected values,Total for selected values,Total for selected values,"430,148"
+2011,Columbia U. in the City of New York,Total for selected values,Total for selected values,"430,148"
+2011,Columbia U. in the City of New York,Health sciences,Total for selected values,"430,148"
+2011,Columbia U. in the City of New York,Health sciences,All other sources,"10,253"
+2011,Columbia U. in the City of New York,Health sciences,Business,"21,216"
+2011,Columbia U. in the City of New York,Health sciences,Institutional funds,"50,238"
+2011,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"30,767"
+2011,Columbia U. in the City of New York,Health sciences,State and local government,"6,421"
+2011,Columbia U. in the City of New York,Health sciences,U.S. federal government,"311,253"
+2010,Total for selected values,Total for selected values,Total for selected values,"393,490"
+2010,Columbia U. in the City of New York,Total for selected values,Total for selected values,"393,490"
+2010,Columbia U. in the City of New York,Health sciences,Total for selected values,"393,490"
+2010,Columbia U. in the City of New York,Health sciences,All other sources,"12,368"
+2010,Columbia U. in the City of New York,Health sciences,Business,"19,051"
+2010,Columbia U. in the City of New York,Health sciences,Institutional funds,"49,486"
+2010,Columbia U. in the City of New York,Health sciences,Nonprofit organizations,"33,995"
+2010,Columbia U. in the City of New York,Health sciences,State and local government,"6,786"
+2010,Columbia U. in the City of New York,Health sciences,U.S. federal government,"271,804"
